@@ -1,3 +1,3 @@
 
 
-Solutions to Exercism problems while I try learn Rust.🦀
+Solutions to Exercism problems while I try to learn Rust.🦀
